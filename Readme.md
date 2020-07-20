@@ -6,7 +6,7 @@ In this project we will try to predict the survival of the passengers.
 3. sklearn
 4. matplotlib
 5. seaborn
-## Dataset
+## Dataset:
 you can download the dataset from [here](https://www.kaggle.com/c/titanic)
 ## Code:
 The `titanic_survival_prediction.py` contains the code.
