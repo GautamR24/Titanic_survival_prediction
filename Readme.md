@@ -3,7 +3,8 @@ In this project we will try to predict the survival of the passengers.
 ## Libraries used:
 1. pandas
 2. sklearn
-
+## Dataset
+you can download the dataset from [here](https://www.kaggle.com/c/titanic  )
 ## Code:
 The `titanic_survival_prediction.py` contains the code.
 
