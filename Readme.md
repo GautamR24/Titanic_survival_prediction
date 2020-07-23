@@ -20,7 +20,7 @@ The `titanic_survival_prediction.py` contains the code.
 we will map them with the numerical values so that we can train the model.
 9. We will make dictionary like `{"male":0,"female":1}` and then map them with the values of `Sex` column.
 10. So all the missing values have been filled and and all columns contain data in numerical form, now we will split the dataset in testing and training dataset.
-11. We will fit the model on the training dataset, after training it will testesd.
+11. We will fit the model on the training dataset, after training it will tested.
 12. At last print the accuracy.
 
 ## Result: 
